@@ -1,0 +1,124 @@
+{
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.executorMap": {
+    "php": "C:\\xampp\\php\\php.exe"
+  },
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 22,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "expand",
+  "prettier.proseWrap": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "workbench.colorCustomizations": {
+    "editorGroupHeader.tabsBackground": "#2c2c54",
+    "activityBar.background": "#2c2c54",
+    "sideBar.background": "#141422",
+    "minimap.background": "#141422",
+    "tab.activeBackground": "#706fd3",
+    "tab.inactiveBackground": "#191846",
+    "terminal.border": "#2c2c54",
+    "terminal.background": "#2c2c54",
+    "statusBar.background": "#474787",
+    "scrollbarSlider.background": "#474787",
+    "scrollbarSlider.hoverBackground": "#706fd3"
+  },
+  "editor.tokenColorCustomizations": {
+    "comments": "#3faa3c"
+  },
+  "editor.linkedEditing": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.bracketPairsHorizontal": "active",
+  "liveServer.settings.CustomBrowser": "firefox",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": "/css"
+    }
+  ],
+  "liveSassCompile.settings.generateMap": false,
+//
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Atom One Dark",
+  "workbench.editor.enablePreview": false,
+
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.fontSize": 20,
+
+  "diffEditor.wordWrap": "on",
+
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.codeActionsOnSave": {
+  
+  },
+  "editor.minimap.enabled": false,
+  "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
+  "php-cs-fixer.lastDownload": 1699427151901,
+  "explorer.confirmDelete": false,
+  "[blade]": {
+    "editor.defaultFormatter": "shufo.vscode-blade-formatter"
+  },
+
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.tabCompletion": "on",
+  "editor.stickyTabStops": true,
+  "html.format.contentUnformatted": "",
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "screencastMode.fontSize": 20,
+  "editor.accessibilityPageSize": 1,
+  "screencastMode.verticalOffset": 1,
+  "screencastMode.mouseIndicatorColor": "#0eff00",
+  "editor.fontVariations": false,
+  "auto-close-tag.activationOnLanguage": [
+    "xml",
+    "php",
+    "blade",
+    "ejs",
+    "jinja",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "plaintext",
+    "markdown",
+    "vue",
+    "liquid",
+    "erb",
+    "lang-cfml",
+    "cfml",
+    "HTML (EEx)",
+    "HTML (Eex)",
+    "plist"
+  ],
+//auto-save-with-code-start
+
+  "files.autoSave": "afterDelay",
+
+//auto-save-with-code-end
+
+//powermode-withcode-type-start
+
+  "powermode.combo.counterEnabled": "hide",
+  "powermode.combo.counterSize": 1,
+  "powermode.enabled": true,
+  "powermode.combo.location": "off",
+  "powermode.combo.timerEnabled": "hide",
+  "powermode.combo.threshold": 1,
+  "powermode.shake.enabled": false,
+  "powermode.presets": "flames"
+
+//powermode-withcode-type-end
+}
